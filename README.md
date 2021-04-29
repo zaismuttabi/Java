@@ -1,8 +1,10 @@
+
+
+
 // mengimpor Scanner ke program
 import java.util.Scanner;
 
 public class UjianTengahSemester{
-
     public static void main(String[] args) {
         // deklarasi variabel
         String nilaiHuruf;
